@@ -242,6 +242,11 @@ public class SecondActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
+![Screenshot 2024-10-17 161113](https://github.com/user-attachments/assets/350e4763-19f9-428f-9a59-7fd82b39bcbe)
+
+![Screenshot 2024-10-17 161124](https://github.com/user-attachments/assets/87d32fc5-170e-413f-952e-82c417873fad)
+
+
 
 
 
