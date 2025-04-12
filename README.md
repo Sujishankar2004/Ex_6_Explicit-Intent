@@ -1,6 +1,6 @@
 # Ex.No:6 Implement an application that uses Explicit Intent using Android
 
-### DATE:
+### DATE:12-04-2025
 
 ## AIM:
 
@@ -33,8 +33,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: Priya R
-Registeration Number : 212222040124
+Developed by: suji s
+Registeration Number : 212222040164
 */
 ```
 ### activity_main.xml:
